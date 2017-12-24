@@ -19,7 +19,7 @@ body, html{
 
 }
 .body-with-bg{
-  background: url("../img/homepage.jpg");
+  background: url("/static/images/homepage.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
